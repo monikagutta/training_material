@@ -1,0 +1,73 @@
+Given User is on Assessment page
+-> done: AssessmentSteps.GivenUserIsOnAssessmentPage() (0.0s)
+When User Click on Start button
+-> done: AssessmentSteps.WhenUserClickOnStartButton() (3.1s)
+And User Click on Go button
+-> done: AssessmentSteps.WhenUserClickOnGoButton() (3.1s)
+And User Click on Goggles
+-> done: AssessmentSteps.WhenUserClickOnGoggles() (3.1s)
+And User Click on Lab coat
+-> done: AssessmentSteps.WhenUserClickOnLabCoat() (3.1s)
+And User Click on Steel toe cap shoes
+-> done: AssessmentSteps.WhenUserClickOnSteelToeCapShoes() (3.1s)
+And User Click on Submit button
+-> done: AssessmentSteps.WhenUserClickOnSubmitButton() (3.1s)
+And User Click on You as you are close to the spillage
+-> done: AssessmentSteps.WhenUserClickOnYouAsYouAreCloseToTheSpillage() (3.1s)
+And User Click on Submit button2
+-> done: AssessmentSteps.WhenUserClickOnSubmitButton2(2) (3.1s)
+And User Click on Set up a causion sign in the affected area
+-> done: AssessmentSteps.WhenUserClickOnSetUpACausionSignInTheAffectedArea() (3.1s)
+And User Click on Submitthree button
+-> done: AssessmentSteps.WhenUserClickOnSubmitthreeButton() (3.1s)
+And user click on On top of a cabinet and drop on unsafe
+-> done: AssessmentSteps.WhenUserClickOnOnTopOfACabinetAndDropOnUnsafe() (3.9s)
+And user click on Shelving below eye level and drop on safe
+-> done: AssessmentSteps.WhenUserClickOnShelvingBelowEyeLevelAndDropOnSafe() (3.9s)
+And user click on In front of a window and drop on unsafe
+-> done: AssessmentSteps.WhenUserClickOnInFrontOfAWindowAndDropOnUnsafe() (3.9s)
+And user click on Next to a heat source and drop on unsafe
+-> done: AssessmentSteps.WhenUserClickOnNextToAHeatSourceAndDropOnUnsafe() (3.9s)
+And user click on Inside a metal cabinet and drop on safe
+-> done: AssessmentSteps.WhenUserClickOnInsideAMetalCabinetAndDropOnSafe() (3.9s)
+And User Click on Submitfour button
+-> done: AssessmentSteps.WhenUserClickOnSubmitfourButton() (3.1s)
+And User Click on Go buttontwo
+-> done: AssessmentSteps.WhenUserClickOnGoButtontwo() (3.1s)
+And user click on Identify hazard and drop as first
+PASS
+-> done: AssessmentSteps.WhenUserClickOnIdentifyHazardAndDropAsFirst() (8.9s)
+And user click on make a record of your findings and drop as second
+PASS
+-> done: AssessmentSteps.WhenUserClickOnMakeARecordOfYourFindingsAndDropAsSecond() (8.9s)
+And user click on Submitfive button
+-> done: AssessmentSteps.WhenUserClickOnSubmitfiveButton() (3.1s)
+And user click on PPE and drop as first
+PASS
+-> done: AssessmentSteps.WhenUserClickOnPPEAndDropAsFirst() (8.9s)
+And User Click on Submitsix button
+-> done: AssessmentSteps.WhenUserClickOnSubmitsixButton() (3.1s)
+And user Click on Not allowed for Stud earrings
+-> done: AssessmentSteps.WhenUserClickOnNotAllowedForStudEarrings() (3.1s)
+And user Click on Not allowed for loose clothing
+-> done: AssessmentSteps.WhenUserClickOnNotAllowedForLooseClothing() (3.1s)
+And user Click on allowed for long hair tied back
+-> done: AssessmentSteps.WhenUserClickOnAllowedForLongHairTiedBack() (3.1s)
+And user Click on Not allowed for sandles
+-> done: AssessmentSteps.WhenUserClickOnNotAllowedForSandles() (3.1s)
+And user Click on Not allowed for necklase
+-> done: AssessmentSteps.WhenUserClickOnNotAllowedForNecklase() (3.0s)
+And user Click on Not allowed for contact lenses
+-> done: AssessmentSteps.WhenUserClickOnNotAllowedForContactLenses() (3.1s)
+And User Click on Submitseven button
+-> done: AssessmentSteps.WhenUserClickOnSubmitsevenButton() (3.1s)
+And User Click on Yes- even near misses need to be reported
+-> done: AssessmentSteps.WhenUserClickOnYes_EvenNearMissesNeedToBeReported() (3.1s)
+And User Click on Submiteight button
+-> done: AssessmentSteps.WhenUserClickOnSubmiteightButton() (3.1s)
+And user click on See results button
+-> done: AssessmentSteps.WhenUserClickOnSeeResultsButton() (3.1s)
+Then should display score
+-> done: AssessmentSteps.ThenShouldDisplayScore() (3.0s)
+And also should display Pass or fail
+-> done: AssessmentSteps.ThenAlsoShouldDisplayPassOrFail() (3.0s)
